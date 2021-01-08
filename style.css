@@ -1,0 +1,15 @@
+.bg-light {
+    background-color: #201547!important;
+}
+
+body { 
+    background-color: #201547;
+    color: white;
+    font-size: 30px;
+    font-family: Montserrat;
+}
+
+.list-group-item {
+    background-color: #201547;
+    border: none;
+}
